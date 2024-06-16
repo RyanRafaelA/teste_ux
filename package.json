@@ -1,0 +1,22 @@
+{
+  "name": "testecypress",
+  "version": "1.0.0",
+  "description": "Projeto para nota em Teste - Manutenção e Análise de Sistema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanRafaelA/teste_ux.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanRafaelA/teste_ux/issues"
+  },
+  "homepage": "https://github.com/RyanRafaelA/teste_ux#readme",
+  "devDependencies": {
+    "cypress": "^13.11.0"
+  }
+}
