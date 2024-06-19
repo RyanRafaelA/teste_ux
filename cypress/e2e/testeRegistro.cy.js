@@ -1,4 +1,4 @@
-describe('Login parabank', ()=>{
+describe('Parabank', ()=>{
     it('Registro de usuario', ()=>{
         //Site fake de um banco
         cy.visit('https://parabank.parasoft.com/parabank/index.htm')
@@ -19,5 +19,5 @@ describe('Login parabank', ()=>{
         cy.get('[id="customer.password"]').type('1234567')
         cy.get('[id="repeatedPassword"]').type('1234567')
         cy.get('[colspan="2"] > .button').click()
-    })  
+    })
 })
