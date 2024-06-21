@@ -4,7 +4,7 @@
 Esse projeto tem a proposta de fazer Teste UX, utilizando o Cypress. Pegando um site já existente e fazendo testes, usando o que nos foi ensinado na aula de Teste - Manutenção e Análise de Sistema.
 
 ## Ferramentas:
-- Node, para fazer a intalação do projeto.
+- Node, para fazer a instalação do projeto.
 - Cypress, para fazer os testes.
 - Para Bank, o site utilizado para rodar os testes.
 
